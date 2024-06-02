@@ -1,0 +1,137 @@
+[
+  {
+    "imagen": "/img/gata5.jpg",
+    "nombre": "Pandora",
+    "raza": "Gata Mixta",
+    "sexo": "Hembra",
+    "edad": "7 años",
+    "color": "Blanco y negro",
+    "dueño": "Sofía Gómez"
+  },
+  {
+    "imagen": "/img/huhcat.jpg",
+    "nombre": "Huh",
+    "raza": "Gato Persa",
+    "sexo": "Macho",
+    "edad": "4 años",
+    "color": "Gris",
+    "dueño": "Janis Joplin"
+  },
+  {
+    "imagen": "/img/actuallycat.jpg",
+    "nombre": "Actually",
+    "raza": "Gato Siames",
+    "sexo": "Hembra",
+    "edad": "3 años",
+    "color": "Marrón",
+    "dueño": "Juan Pérez"
+  },
+  {
+    "imagen": "/img/actuallykitten.jpg",
+    "nombre": "Uhmm actually",
+    "raza": "Gato Angora",
+    "sexo": "Macho",
+    "edad": "2 años",
+    "color": "Blanco",
+    "dueño": "Juanita Pérez"
+  },
+  {
+    "imagen": "/img/floppa.jpg",
+    "nombre": "Floppa",
+    "raza": "Felino Caracal",
+    "sexo": "Hembra",
+    "edad": "5 años",
+    "color": "Negro",
+    "dueño": "Michael Scott"
+  },
+  {
+    "imagen": "/img/banana.jpg",
+    "nombre": "Banana",
+    "raza": "Gato Mixto",
+    "sexo": "Macho",
+    "edad": "1 año",
+    "color": "Naranja y negro",
+    "dueño": "Sarah Connor"
+  },
+  {
+    "imagen": "/img/borotan.jpg",
+    "nombre": "Chewchan",
+    "raza": "Perro British Shorthair",
+    "sexo": "Hembra",
+    "edad": "4 años",
+    "color": "Blanco",
+    "dueño": "Clark Kent"
+  },
+  {
+    "imagen": "/img/borotan2.jpg",
+    "nombre": "Borotan",
+    "raza": "Perro British Shorthair",
+    "sexo": "Macho",
+    "edad": "6 años",
+    "color": "Blanco y café ",
+    "dueño": "Lois Lane"
+  },
+  {
+    "imagen": "/img/catlooking.png",
+    "nombre": "Mixta",
+    "raza": "Gato Maine Coon",
+    "sexo": "Hembra",
+    "edad": "3 años",
+    "color": "Atigrado",
+    "dueño": "Peter Parker"
+  },
+  {
+    "imagen": "/img/tiredcat.jpg",
+    "nombre": "Dormilón",
+    "raza": "Gato Sphynx",
+    "sexo": "Macho",
+    "edad": "2 años",
+    "color": "Blanco",
+    "dueño": "Mary Jane Watson"
+  },
+  {
+    "imagen": "/img/popcat.jpg",
+    "nombre": "Popcat",
+    "raza": "Gato mixto",
+    "sexo": "Macho",
+    "edad": "2 años",
+    "color": "Marrón",
+    "dueño": "Tony Stark"
+  },
+  {
+    "imagen": "/img/weird.jpg",
+    "nombre": "Raro",
+    "raza": "Gato Siames",
+    "sexo": "Hembra",
+    "edad": "4 años",
+    "color": "Blanco",
+    "dueño": "Steve Rogers"
+  },
+  {
+    "imagen": "/img/wierd2.jpg",
+    "nombre": "Rarito",
+    "raza": "Gato Mestizo",
+    "sexo": "Macho",
+    "edad": "6 años",
+    "color": "Negro",
+    "dueño": "Jonathan Joestar"
+  },
+  {
+    "imagen": "/img/se busca.webp",
+    "nombre": "Se busca",
+    "raza": "Gato Persa",
+    "sexo": "Hembra",
+    "edad": "5 años",
+    "color": "Gris",
+    "dueño": "Mario Lando"
+  },
+  {
+    "imagen": "/img/sebusca2.jpg",
+    "nombre": "Se busca2",
+    "raza": "Mestizo",
+    "sexo": "Macho",
+    "edad": "3 años",
+    "color": "Marrón",
+    "dueño": "Bruce Banner"
+  }
+]
