@@ -1,6 +1,6 @@
 [
   {
-    "imagen": "/img/gata5.jpg",
+    "imagen": "img/gata5.jpg",
     "nombre": "Pandora",
     "raza": "Gata Mixta",
     "sexo": "Hembra",
@@ -9,7 +9,7 @@
     "dueño": "Sofía Gómez"
   },
   {
-    "imagen": "/img/huhcat.jpg",
+    "imagen": "img/huhcat.jpg",
     "nombre": "Huh",
     "raza": "Gato Persa",
     "sexo": "Macho",
@@ -18,7 +18,7 @@
     "dueño": "Janis Joplin"
   },
   {
-    "imagen": "/img/actuallycat.jpg",
+    "imagen": "img/actuallycat.jpg",
     "nombre": "Actually",
     "raza": "Gato Siames",
     "sexo": "Hembra",
@@ -27,7 +27,7 @@
     "dueño": "Juan Pérez"
   },
   {
-    "imagen": "/img/actuallykitten.jpg",
+    "imagen": "img/actuallykitten.jpg",
     "nombre": "Uhmm actually",
     "raza": "Gato Angora",
     "sexo": "Macho",
@@ -36,7 +36,7 @@
     "dueño": "Juanita Pérez"
   },
   {
-    "imagen": "/img/floppa.jpg",
+    "imagen": "img/floppa.jpg",
     "nombre": "Floppa",
     "raza": "Felino Caracal",
     "sexo": "Hembra",
@@ -45,7 +45,7 @@
     "dueño": "Michael Scott"
   },
   {
-    "imagen": "/img/banana.jpg",
+    "imagen": "img/banana.jpg",
     "nombre": "Banana",
     "raza": "Gato Mixto",
     "sexo": "Macho",
@@ -54,7 +54,7 @@
     "dueño": "Sarah Connor"
   },
   {
-    "imagen": "/img/borotan.jpg",
+    "imagen": "img/borotan.jpg",
     "nombre": "Chewchan",
     "raza": "Perro British Shorthair",
     "sexo": "Hembra",
@@ -63,7 +63,7 @@
     "dueño": "Clark Kent"
   },
   {
-    "imagen": "/img/borotan2.jpg",
+    "imagen": "img/borotan2.jpg",
     "nombre": "Borotan",
     "raza": "Perro British Shorthair",
     "sexo": "Macho",
@@ -72,7 +72,7 @@
     "dueño": "Lois Lane"
   },
   {
-    "imagen": "/img/catlooking.png",
+    "imagen": "img/catlooking.png",
     "nombre": "Mixta",
     "raza": "Gato Maine Coon",
     "sexo": "Hembra",
@@ -81,7 +81,7 @@
     "dueño": "Peter Parker"
   },
   {
-    "imagen": "/img/tiredcat.jpg",
+    "imagen": "img/tiredcat.jpg",
     "nombre": "Dormilón",
     "raza": "Gato Sphynx",
     "sexo": "Macho",
@@ -90,7 +90,7 @@
     "dueño": "Mary Jane Watson"
   },
   {
-    "imagen": "/img/popcat.jpg",
+    "imagen": "img/popcat.jpg",
     "nombre": "Popcat",
     "raza": "Gato mixto",
     "sexo": "Macho",
@@ -99,7 +99,7 @@
     "dueño": "Tony Stark"
   },
   {
-    "imagen": "/img/weird.jpg",
+    "imagen": "img/weird.jpg",
     "nombre": "Raro",
     "raza": "Gato Siames",
     "sexo": "Hembra",
@@ -108,7 +108,7 @@
     "dueño": "Steve Rogers"
   },
   {
-    "imagen": "/img/wierd2.jpg",
+    "imagen": "img/wierd2.jpg",
     "nombre": "Rarito",
     "raza": "Gato Mestizo",
     "sexo": "Macho",
@@ -117,7 +117,7 @@
     "dueño": "Jonathan Joestar"
   },
   {
-    "imagen": "/img/se busca.webp",
+    "imagen": "img/se busca.webp",
     "nombre": "Se busca",
     "raza": "Gato Persa",
     "sexo": "Hembra",
@@ -126,7 +126,7 @@
     "dueño": "Mario Lando"
   },
   {
-    "imagen": "/img/sebusca2.jpg",
+    "imagen": "img/sebusca2.jpg",
     "nombre": "Se busca2",
     "raza": "Mestizo",
     "sexo": "Macho",
