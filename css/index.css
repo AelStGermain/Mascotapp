@@ -1,7 +1,7 @@
 
 /* Background */
 body {
-  background-image: url('/img/pet\ pattern\ background.png'); /* Ruta del background */
+  background-image: url('img/pet\ pattern\ background.png'); /* Ruta del background */
   background-repeat: repeat; /* Establece la repetición en mosaico de la imagen de fondo */
   background-color: rgba(0, 0, 0, 0); /* Fondo transparente */
   margin: 0; 
